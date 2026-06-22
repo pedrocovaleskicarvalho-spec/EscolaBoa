@@ -7,7 +7,7 @@ body{
 font-family: "Poppins", sans-serif;
 }
 header{
-background-color: #5577ad;
+background-color: #424e61;
 color: white;
 width: 100%;
 padding: 20px;
@@ -38,11 +38,11 @@ width: 25%;
 padding-right: 30px;
 }
 .banner1{
-display: width: 1200px;
+display: flex;
 justify-content: center;
 }
 .estudante_titulo{
-padding: 40px;
+padding: 50px;
 text-align: center;
 
 }
@@ -90,5 +90,4 @@ padding: 12px 0;
 
 .link{
 color: #ffffff;
-text-decoration: none;
-}
+text-decoration:
