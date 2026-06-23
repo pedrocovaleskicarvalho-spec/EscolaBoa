@@ -58,9 +58,11 @@ text-align: center;
 width: 38px;
 padding: 4px 8px;
 }
-.estudante{
-background-image: image-set(images.jpg)
-padding: 24px 0;
+.estudante {
+  background-image: url('images.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 24px 0;
 }
 
 .estudante.div{
