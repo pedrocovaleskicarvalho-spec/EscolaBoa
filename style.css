@@ -61,9 +61,11 @@ padding: 4px 8px;
 }
 .estudante {
   background-image: url('images.jpg');
-  background-size: cover;
-  background-position: center;
-  padding: 24px 0;
+  background-size: cover;        
+  background-position: center;   
+  background-repeat: no-repeat;  
+  color: #ffffff;                
+  padding: 40px 0;
 }
 
 .estudante.div{
