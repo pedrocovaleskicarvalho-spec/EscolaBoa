@@ -21,6 +21,7 @@ justify-content: center;
 }
 .cabecalho-imagem{ 
 max-width: 1980px;
+width: 100%;
 margin: 0 auto;
 display: flex;
 justify-content: center;
@@ -34,7 +35,7 @@ width: 25%;
 padding-right: 30px;
 }
 .banner1{ 
- max-width: 2020px;  
+ max-width: 2015px;  
 display: flex;
 justify-content: center; 
 }
