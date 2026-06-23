@@ -19,8 +19,8 @@ display: flex;
 align-items: center;
 justify-content: center;
 }
-.cabecalho-imagem{
-width: 10%;
+.cabecalho-imagem{ 
+width: 100%;
 display: flex;
 justify-content: flex-start;
 align-items: center;
