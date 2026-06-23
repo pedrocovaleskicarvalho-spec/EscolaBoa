@@ -49,6 +49,7 @@ text-align: center;
 .estudante-nome{
 text-align: center;
 }
+
 .estudante-imagem {
   width: 120px;
   height: 120px;        
@@ -73,7 +74,7 @@ justify-content: space-around;
 }
 .escola{
 background-image: linear-gradient(#40A2E3,#7FC2EF);
-color: white;
+color: #FEEC41
 display: flex;
 justify-content:center;
 padding: 24px 0;
