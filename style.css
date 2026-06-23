@@ -49,8 +49,10 @@ text-align: center;
 .estudante-nome{
 text-align: center;
 }
-.estudante-imagem{
-width: 120px;
+.estudante-imagem {
+  width: 120px;
+  height: 120px;        
+  object-fit: contain;  
 }
 .estudante-icone{
 width: 38px;
