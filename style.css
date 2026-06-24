@@ -27,7 +27,11 @@ width: 100%;
   justify-content: center;
   align-items: center;    
 }
-
+.cabecalho-imagem img {
+  width: 100%;
+  height: auto;
+  display: block; 
+}
 .sociais{
 display: flex;
 justify-content: flex-end;
