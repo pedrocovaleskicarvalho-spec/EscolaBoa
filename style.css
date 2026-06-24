@@ -10,7 +10,7 @@ header{
 background-color: #424e61;
 color: white;
 width: 100%;
-padding: 0; 
+padding: 0;
 }
 .cabecalho-imagem{ 
 width: 100%; 
@@ -60,7 +60,8 @@ text-align: center;
 padding: 24px 0;
 }
 .estudantes_todos{
-display: center;
+display: flex;
+justify-content: space-around;
 }
 .escola{
 background-image: linear-gradient(#FEEC41,#4274D9);
