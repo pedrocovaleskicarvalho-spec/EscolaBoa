@@ -13,18 +13,13 @@ width: 100%;
 padding: 0;
 }
 .cabecalho-imagem{ 
-width: 100%; 
-  max-width: 1980px;
+  width: 100%; 
   margin: 0 auto;
   display: flex;
   justify-content: center;
-  align-items: center;    
+  align-items: center;   
 }
-.cabecalho-imagem img {
-  width: 100%;
-  height: auto;
-  display: block; 
-}
+ 
 .sociais{
 display: flex;
 justify-content: flex-end;
