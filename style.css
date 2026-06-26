@@ -21,7 +21,12 @@ padding: 0;
   align-items: center;
   overflow: hidden;   
 }
- 
+.cabecalho-imagem img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; 
+  object-position: center;
+}
 .sociais{
 display: flex;
 justify-content: flex-end;
