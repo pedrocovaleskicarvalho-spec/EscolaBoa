@@ -24,6 +24,12 @@ font-family: "Poppins", sans-serif;
 margin: 0;
   padding: 0;
 }   
+.titulo_site{
+padding: 50px;
+text-align: center;
+width: 50%;
+font: 30px;
+}
 .sociais{
  max-width: 3000px;
   margin: 0 auto;
