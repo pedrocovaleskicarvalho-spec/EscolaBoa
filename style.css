@@ -19,12 +19,12 @@ display: flex;
 align-items: center;
 justify-content: center;
 }
-body{ 
-font-family: "Poppins", sans-serif;
-margin: 0;
-  padding: 0;
-}   
-
+.cabecalho-imagem{
+width: 10%;
+display: flex;
+justify-content: flex-start;
+align-items: center;
+}
 .titulo_site{
 padding: 50px;
 text-align: center;
