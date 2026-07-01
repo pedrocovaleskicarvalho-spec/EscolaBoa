@@ -82,7 +82,7 @@ justify-content: space-around;
 }
 .escola{
 background-image: linear-gradient(#FEEC41,#4274D9);
-color: rgb(255, 255, 255);
+color: linear-gradient (#112E81, #FFD400);
 display: flex;
 justify-content:center;
 padding: 24px 0;
