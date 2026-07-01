@@ -6,7 +6,7 @@ margin: 0;
 .sociais{
  max-width: 2015px;
   margin: 0 auto;
-  display: flex;
+  display: center;
   justify-content: center;
   align-items: center; 
 }
