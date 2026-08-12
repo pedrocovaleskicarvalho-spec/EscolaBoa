@@ -9,7 +9,7 @@ font-family: "Poppins", sans-serif;
 header{
 background-color: #424e61;
 color: white;
-width: auto;
+width: 100%;
 padding: 20px;
 }
 .cabecalho-itens{
@@ -39,7 +39,7 @@ font: 30px;
   align-items: center; 
 }
 .banner1 img {
-  width: auto;
+  width: 100%;
   height: auto; 
   display: block;
 }
